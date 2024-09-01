@@ -1,4 +1,4 @@
-# PS Chosen for Internal Hackathon (File Name from the drive folder)
+# AI for Developer Productivity: Backend Developer
 
 This README provides an overview of the project, including team details, relevant links, tasks completed, tech stack, key features, and steps to run the project locally.
 
