@@ -32,19 +32,20 @@ Follow these steps to run the project locally
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/Priyesh1311421/SocialCalc.git
-   cd SocialCalc
+   git clone https://github.com/irshad017/SIH_INTERNAL_ROUND_1_TERMINAL_STACK.git
+  
    ```
+   Explore the code folder .
 
 2. **Install dependencies for both frontend and backend:**
 
    ```bash
    # Install backend dependencies
-   cd backend
+   cd server
    npm install
 
    # Install frontend dependencies
-   cd ../frontend
+   cd client
    npm install
    ```
 3. **Add your own mongo db url:**
