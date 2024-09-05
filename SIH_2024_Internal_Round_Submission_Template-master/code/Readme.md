@@ -35,7 +35,7 @@ Follow these steps to run the project locally
    git clone https://github.com/irshad017/SIH_INTERNAL_ROUND_1_TERMINAL_STACK.git
   
    ```
-   Explore the code folder .
+  Locate the code folder .
 
 2. **Install dependencies for both frontend and backend:**
 
